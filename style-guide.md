@@ -24,10 +24,10 @@ Material icon
 --eerie-black_a95: hsla(204, 9%, 11%, 0.95);
 --eerie-black_a50: hsla(204, 9%, 11%, 0.5);
 --eerie-black: hsl(204, 9%, 11%);
---gainsboro: hsl(225, 7%, 89%);
+--gainsboro: hsla(225, 47%, 39%, 1.00);
 --charcoal: hsl(203, 9%, 28%);
 --silver-sand: hsl(208, 12%, 78%);
---light-sky-blue: hsl(200, 100%, 73%);
+--light-sky-blue: hsla(200, 75%, 22%, 1.00);
 --prussian-blue: hsl(196, 100%, 14%);
 --black: hsl(0, 0%, 0%);
 --black_a50: hsla(0, 0%, 0%, 0.5);
