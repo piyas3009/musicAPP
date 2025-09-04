@@ -26,7 +26,7 @@ Material icon
 --eerie-black: hsl(204, 9%, 11%);
 --gainsboro: hsla(225, 47%, 39%, 1.00);
 --charcoal: hsl(203, 9%, 28%);
---silver-sand: hsl(208, 12%, 78%);
+--silver-sand: hsla(211, 24%, 68%, 1.00);
 --light-sky-blue: hsla(200, 75%, 22%, 1.00);
 --prussian-blue: hsl(196, 100%, 14%);
 --black: hsl(0, 0%, 0%);
